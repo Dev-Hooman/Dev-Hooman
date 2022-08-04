@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning MERN STACK 
-- 👨🏻‍💻  I'm Intereseted in Big Data and WebScrapping 
+- 👨🏻‍💻  I'm Intereseted in Web Development and WebScrapping 
 
 
 <br />
