@@ -1,7 +1,8 @@
 # Hi there, I'm AbdulRehman Sarfaraz 👋 
 
 
-- 🌱 I’m currently learning REACT.js and DJANGO REST FRAMEWORK
+- 🌱 I’m currently learning MERN STACK 
+- 👨🏻‍💻  I'm Intereseted in Big Data and WebScrapping 
 - ⚡ I love to play video games and build systems
 
 <br />
