@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I am Currently working as MERN Stack Developer .<br>🤖I am Interested in AI and Machine Learning.<br>🎮 I love to create Indie Video Games.
+💻I am Currently working as Full Stack Developer .<br>🤖I am Interested in AI and Machine Learning.<br>🎮 I love to create Indie Video Games.
 
 
 ## 🌐 Socials:
